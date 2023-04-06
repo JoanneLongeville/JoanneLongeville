@@ -1,5 +1,5 @@
 <h1>Hi 👋 I'm Joanne, welcome on my GitHub</h1>
-<h3>Looking for an apprenticeship from June 2023 (1 year : 4days/1day)</h3>
+<h3>Looking for an apprenticeship in software development for 1 year (4 days enterprise/1 day school)</h3>
 
 - 🌱 I’m currently learning **Software Development** at **[Ada Tech School](https://adatechschool.fr)**
 
