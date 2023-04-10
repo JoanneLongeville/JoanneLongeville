@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Software Development** at **[Ada Tech School](https://adatechschool.fr)**
 
-- 📫 You can reach here **joanne.longeville@gmail.com** or here <a href="https://linkedin.com/in/joanne-longeville" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joanne-longeville" height="30" width="40" /></a>
+- 📫 You can reach me here **joanne.longeville@gmail.com** or here <a href="https://linkedin.com/in/joanne-longeville" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joanne-longeville" height="30" width="40" /></a>
 
 - ⚡ Fun fact : **I'm highly motivate && curious**
 
