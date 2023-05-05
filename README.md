@@ -1,7 +1,5 @@
 # ✨ Welcome on my GitHub ✨
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joanne-longeville) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joanne.longeville@gmail.com)
-
 💛 Enjoying **Software Development** at **[Ada Tech School](https://adatechschool.fr)**
 
 🍀 Looking for 1 year **apprenticeship** (4 days enterprise/1 day school)
@@ -18,3 +16,8 @@
  ... and much more ! 💫
  
  👀 Have a look at my **[latest project](https://github.com/JoanneLongeville/Microblogging_Lisamojo)** 
+
+
+## 👇 Reach me 👇
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joanne-longeville) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joanne.longeville@gmail.com)
