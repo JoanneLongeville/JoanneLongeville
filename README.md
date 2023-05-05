@@ -4,7 +4,7 @@
 
 💛 Enjoying **Software Development** at **[Ada Tech School](https://adatechschool.fr)**
 
-🍀 Looking for 1 year **apprenticeship** in software development (4 days enterprise/1 day school)
+🍀 Looking for 1 year **apprenticeship** (4 days enterprise/1 day school)
 
 👩‍💻 Learning : 
 
