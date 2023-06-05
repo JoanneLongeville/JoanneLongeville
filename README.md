@@ -15,7 +15,7 @@
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
  ... and much more ! 💫
  
- 👀 Have a look at my **[latest project](https://github.com/JoanneLongeville/Microblogging_Lisamojo)** 
+ 👀 Have a look at my **[latest project](https://github.com/JoanneLongeville/Mobile_app_Ada_tech_quiz)** 
 
 
 ## 👇 Reach me 👇
