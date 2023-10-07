@@ -1,8 +1,6 @@
 # ✨ Welcome on my GitHub ✨
 
-💛 Enjoying **Software Development** at **[Ada Tech School](https://adatechschool.fr)**
-
-🍀 Currently **apprentice** as backend developer
+💛 Enjoying **Backend Development** at **Carrefour** as **Go Developer**
 
 👩‍💻 Learning :
 
