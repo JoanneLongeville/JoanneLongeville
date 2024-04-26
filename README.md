@@ -1,6 +1,6 @@
 # ✨ Welcome on my GitHub ✨
 
-💛 Enjoying **Backend Development** at **Carrefour** as **Go Developer**
+💛 Enjoying **Backend Development** at **Carrefour** as **Python Developer**
 
 👩‍💻 Learning :
 
