@@ -18,7 +18,7 @@
  
 👀 Have a look at my **[latest school project](https://github.com/JoanneLongeville/Mobile_app_Ada_tech_quiz)** 
 
-🎓 Currently working on my diploma's project: [Back](https://github.com/JoanneLongeville/SportFirst-Back) and [Front](https://github.com/JoanneLongeville/SportFirst-Front)
+🎓 Currently working on my diploma's project : [Back](https://github.com/JoanneLongeville/SportFirst-Back) and [Front](https://github.com/JoanneLongeville/SportFirst-Front)
 
 ## 👇 Reach me 👇
 
