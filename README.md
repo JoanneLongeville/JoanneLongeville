@@ -15,8 +15,6 @@
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/fr/software/jira)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
- 
-👀 Have a look at my **[latest school project](https://github.com/JoanneLongeville/Mobile_app_Ada_tech_quiz)** 
 
 🎓 Currently working on my diploma's project : [Back](https://github.com/JoanneLongeville/SportFirst-Back) and [Front](https://github.com/JoanneLongeville/SportFirst-Front)
 
