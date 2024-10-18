@@ -1,6 +1,6 @@
-# ✨ Welcome on my GitHub ✨
+# ✨ Welcome ✨
 
-💛 Enjoying **Backend Development** at **Carrefour** with **Python**
+💛 Enjoying **Backend Development** with **Python**
 
 👩‍💻 Learning :
 
@@ -11,12 +11,10 @@
 🛠️ Using :
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/fr/software/jira)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-🎓 Currently working on my diploma's project : [Back](https://github.com/JoanneLongeville/SportFirst-Back) and [Front](https://github.com/JoanneLongeville/SportFirst-Front)
+🎓 My latest project : [Back](https://github.com/JoanneLongeville/SportFirst-Back) and [Front](https://github.com/JoanneLongeville/SportFirst-Front)
 
 ## 👇 Reach me 👇
 
