@@ -1,6 +1,4 @@
-# ✨ Welcome ✨
-
-💫 Enjoying **Software Development**
+# ✨ Software Developer ✨
 
 ## 🛠️ Stack
 
@@ -37,6 +35,3 @@
 ## 👇 Reach me 👇
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joanne-longeville) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joanne.longeville@gmail.com)
-
-
-🎓 My diploma project : [Back](https://github.com/JoanneLongeville/SportFirst-Back) and [Front](https://github.com/JoanneLongeville/SportFirst-Front)
