@@ -1,4 +1,4 @@
-### Data Analyst junior | Python, SQL | Analyse & fiabilisation de données | Optimisation de processus
+### Data Analyst | Python | SQL | Analyse & fiabilisation de données | Optimisation de processus
 
 📍 Paris | Luxembourg | Remote 
 
